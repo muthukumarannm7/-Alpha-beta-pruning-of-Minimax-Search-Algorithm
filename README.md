@@ -178,4 +178,5 @@ if __name__ == "__main__":
 
 <img width="456" height="600" alt="image" src="https://github.com/user-attachments/assets/9b4e2dd9-fb1a-452d-8151-a52699aff765" />
 
-
+## Result:
+We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
